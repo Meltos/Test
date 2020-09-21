@@ -88,3 +88,15 @@ h3, h2 {
 .col-sm, .col-12 {
     margin-bottom: 16px;
 }
+
+form {
+    padding: 0px 16px 16px 16px;
+}
+
+.form-row {
+    margin-bottom: 16px;
+}
+
+.content__text-form {
+    padding: 16px 16px 0px 16px;
+}
