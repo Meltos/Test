@@ -29,6 +29,9 @@ a {
    .navbar-brand {
        display: inline;
    }
+   .li-hidden{
+       display: none;
+   }
 }
 
 h3, h2 {
@@ -99,4 +102,18 @@ form {
 
 .content__text-form {
     padding: 16px 16px 0px 16px;
+}
+
+.active {
+    color: #ffdfbc;
+    text-shadow: 0 0 15px #fff;
+}
+
+a:hover {
+    color: #ffdfbc;
+    text-shadow: 0 0 15px #fff;
+}
+
+nav .h5{
+    margin-bottom: 0;
 }
